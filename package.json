@@ -1,0 +1,24 @@
+{
+     "name": "whatsapp-bot",
+     "version": "1.0.0",
+     "description": "WhatsApp Bot with Gemini AI",
+     "main": "index.js",
+     "scripts": {
+          "start": "node index.js"
+     },
+     "dependencies": {
+          "@distube/ytdl-core": "^4.15.8",
+          "@google/generative-ai": "^0.1.3",
+          "axios": "^1.7.9",
+          "btch-downloader": "^2.8.2",
+          "cheerio": "^1.0.0",
+          "fluent-ffmpeg": "^2.1.3",
+          "fs-extra": "^11.2.0",
+          "moment": "^2.30.1",
+          "play-dl": "^1.9.7",
+          "progress-stream": "^2.0.0",
+          "snapsave-media-downloader": "^2.1.1",
+          "venom-bot": "^5.0.21",
+          "yt-dlp-exec": "^1.0.2"
+     }
+}
